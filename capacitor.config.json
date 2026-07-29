@@ -1,9 +1,0 @@
-{
-  "appId": "com.kb.twinvest",
-  "appName": "TwinVest",
-  "webDir": "./",
-  "bundledWebRuntime": false,
-  "server": {
-    "androidScheme": "https"
-  }
-}
